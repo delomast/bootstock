@@ -1,0 +1,261 @@
+hatchery,tag_rate
+Cottonwood2008,0.9647
+Cottonwood2009,0.9583
+Cottonwood2010,1
+Cottonwood2011,0.9598
+Cottonwood2012,1
+Cottonwood2013,1
+Cottonwood2014,0.9939
+Cottonwood2015,0.9322
+Cottonwood2016,0.9653
+Cottonwood2017,0.9836
+Cottonwood2018,0.9098
+Deschutes2013,1
+Deschutes2014,1
+Deschutes2015,1
+Deschutes2016,1
+Deschutes2017,0.998
+Dwor_Yankee2014,1
+Dwor_Yankee2015,0.8205
+Dwor-C2010,0.9678
+Dwor-C2011,0.9832
+Dwor-C2012,0.9544
+Dwor-C2013,0.9631
+Dwor-C2014,0.9872
+Dwor-C2015,0.887
+Dwor-C2016,0.9427
+Dwor-C2017,0.9824
+Dwor-C2018,0.9349
+Dwor-S2010,0.9639
+Dwor-S2011,0.9913
+Dwor-S2012,0.9835
+Dwor-S2013,0.9787
+Dwor-S2014,0.9884
+Dwor-S2015,0.8125
+Dwor-S2016,0.9412
+Dwor-S2017,0.9872
+Dwor-S2018,0.9333
+Dworshak2008,0.6749
+Dworshak2009,0.9776
+Dworshak2010,0.9671
+Dworshak2011,0.9851
+Dworshak2012,0.9614
+Dworshak2013,0.9642
+Dworshak2014,0.9689
+Dworshak2015,0.871
+Dworshak2016,0.9426
+Dworshak2017,0.9831
+Dworshak2018,0.9346
+EF Salmon2008,0.9615
+EF Salmon2009,1
+EF Salmon2010,1
+EF Salmon2011,1
+EF Salmon2012,0.9412
+EF Salmon2013,0.9167
+EF Salmon2014,1
+EF Salmon2015,1
+EF Salmon2016,1
+EF Salmon2017,0.1818
+EF Salmon2018,1
+EFS_Nat2008,1
+EFS_Nat2009,1
+Hood River2012,1
+Hood River2013,0.8622
+Hood River2014,0.859
+Hood River2015,0.9167
+Hood River2016,0.907
+Hood River2017,0.8711
+Imnaha2008,1
+Imnaha2009,1
+Imnaha2010,0.8836
+Imnaha2011,1
+Imnaha2012,0.9557
+Imnaha2013,0.7277
+Imnaha2014,0.955
+Imnaha2015,0.8822
+Imnaha2016,0.9258
+Imnaha2017,0.9394
+Imnaha2018,0.7883
+Lyons Ferry2009,0.9906
+Lyons Ferry2010,1
+Lyons Ferry2011,1
+Lyons Ferry2012,1
+Methow2015,0.9467
+Methow2016,1
+Methow2017,1
+NPT_Dwor_Egg2016,1
+NPT_Dwor_Egg2017,1
+NPT_Dwor_Egg2018,0.9333
+NPTK2011,1
+Okanogan2015,0.9518
+Okanogan2016,1
+Okanogan2017,1
+Omak2015,1
+Omak2016,1
+Oxbow2008,0.9089
+Oxbow2009,0.875
+Oxbow2010,0.9407
+Oxbow2011,0.9202
+Oxbow2012,0.9841
+Oxbow2013,0.9709
+Oxbow2014,0.9701
+Oxbow2015,0.9278
+Oxbow2016,0.875
+Oxbow2017,0.5253
+Oxbow2018,0.9345
+Pahsimeroi2008,0.9415
+Pahsimeroi2009,0.9483
+Pahsimeroi2010,0.9703
+Pahsimeroi2011,0.7936
+Pahsimeroi2012,0.9813
+Pahsimeroi2013,0.9944
+Pahsimeroi2014,0.9962
+Pahsimeroi2015,0.9209
+Pahsimeroi2016,0.9884
+Pahsimeroi2017,0.9797
+Pahsimeroi2018,0.9853
+Sawtooth2008,0.9928
+Sawtooth2009,1
+Sawtooth2010,0.9968
+Sawtooth2011,0.9967
+Sawtooth2012,1
+Sawtooth2013,0.9965
+Sawtooth2014,0.9942
+Sawtooth2015,0.9415
+Sawtooth2016,0.9848
+Sawtooth2017,0.9939
+Sawtooth2018,0.9098
+SBT_Basin2008,1
+SBT_Basin2009,0.9832
+SBT_Beaver2011,0.7979
+SBT_Dwor_Egg2016,0.9091
+SBT_Dwor_Egg2018,0.9381
+SBT_Egg2008,0.9938
+SBT_Egg2010,0.8125
+SBT_Egg2014,1
+SBT_Egg2015,0.9371
+SBT_Egg2016,0.9167
+SBT_Egg2017,0.9815
+SBT_Egg2018,0.9298
+SBT_Indian2009,0.9107
+SBT_Indian2010,0.9524
+SBT_Indian2011,0.8095
+SBT_Indian2013,1
+SBT_Panther2009,0.954
+SBT_Panther2010,0.9615
+SBT_Panther2012,0.9667
+SBT_Panther2013,0.949
+SBT_Yankee2008,0.9143
+SBT_Yankee2009,1
+SBT_Yankee2010,1
+SBT_Yankee2011,0.9897
+SBT_Yankee2012,1
+SBT_YF_Egg2008,1
+SBT_YF_Egg2010,1
+SBT_YF_Egg2011,1
+SBT_YF_Egg2012,1
+SF Clearwater2010,1
+SF Clearwater2011,0.8571
+SF Clearwater2012,0.9875
+SF Clearwater2013,1
+SF Clearwater2014,1
+SF Clearwater2015,0.9356
+SF Clearwater2016,0.9756
+SF Clearwater2017,1
+SF Clearwater2018,0.9474
+Skamania2013,0.9915
+Skamania2014,1
+Skamania2015,1
+Skamania2016,0.2011
+Skamania2017,0.9403
+Skamania-win2013,0.9837
+Skamania-win2014,1
+Skamania-win2015,1
+Skamania-win2016,0.0605
+Skamania-win2017,0.9588
+Touchet2009,0.8889
+Touchet2010,0.6429
+Touchet2011,1
+Touchet2012,1
+Touchet2013,1
+Touchet2014,1
+Touchet2015,1
+Touchet2016,0.625
+Touchet2017,1
+Touchet2018,1
+Tucannon2009,0.875
+Tucannon2010,0.6944
+Tucannon2011,0.6861
+Tucannon2012,0.7647
+Tucannon2013,1
+Tucannon2014,0.9697
+Tucannon2015,0.8667
+Tucannon2016,1
+Tucannon2017,1
+Tucannon2018,0.8929
+Twisp2013,1
+Twisp2014,1
+Twisp2015,1
+Twisp2016,1
+Umatilla2012,1
+Umatilla2013,1
+Umatilla2014,1
+Umatilla2015,1
+Umatilla2016,1
+Umatilla2017,0.9728
+Upper Salmon2008,1
+Upper Salmon2009,1
+Upper Salmon2010,0.9474
+Upper Salmon2011,1
+Upper Salmon2012,1
+Upper Salmon2013,0.9579
+Upper Salmon2014,1
+Upper Salmon2015,0.7156
+Upper Salmon2016,0.9911
+Upper Salmon2017,1
+Upper Salmon2018,0.9697
+USAL_Lsr_Up2013,0.9669
+USAL_Lsr2013,0.9634
+USAL_Lsr2014,1
+USAL_Lsr2015,0.6364
+USAL_Lsr2016,1
+USAL_Pah2014,1
+USAL_Pah2015,0.7857
+USAL_Pah2016,0.9888
+USAL_Pah2017,1
+USAL_Pah2018,0.9706
+USAL_SBT2015,0.8542
+USAL_SBT2016,1
+USAL_Up2013,0.9744
+USAL_Yankee2013,0.9429
+USAL_Yankee2014,1
+USAL_Yankee2015,0.7176
+USAL_Yankee2016,0.9596
+USAL_Yankee2017,1
+Wallowa2009,0.9094
+Wallowa2010,0.9761
+Wallowa2011,0.9833
+Wallowa2012,0.9918
+Wallowa2013,0.9102
+Wallowa2014,0.9959
+Wallowa2015,0.9435
+Wallowa2016,0.8981
+Wallowa2017,0.9831
+Wallowa2018,0.9597
+Wells2013,0.9395
+Wells2014,0.8975
+Wells2015,0.9556
+Wells2016,0.9472
+Wells2017,0.9551
+Wenatchee2012,1
+Wenatchee2013,1
+Wenatchee2014,1
+Wenatchee2015,1
+Wenatchee2016,1
+Wenatchee2017,1
+Winthrop2012,1
+Winthrop2013,1
+Winthrop2014,1
+Winthrop2015,1
+Winthrop2016,1
+Winthrop2017,1
